@@ -1,0 +1,23 @@
+name: Brave Pet Academy
+favicon: null
+layout_spectrum: 0.7669701706618071
+typography_spectrum: 0.7910900556016713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8077137593645602
+  lightness: 0.5473964335396886
+  saturation: 0.8338828701525927
+  rhythmicContrast: 0.08063182374462485
+purpose: []
