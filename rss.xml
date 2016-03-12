@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brave Pet Academy]]></title>
+        <description><![CDATA[Brave Pet Academy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 18:41:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Startup Swagger ]]></title>
+            <description><![CDATA[<article><h1>Startup Swagger </h1><p>Custom branded hoodies for people who want to wear their story </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/311dec20e530c2c08ef07067ed695377bf682782.png"></article>]]></description>
+            <link>http://startupswagger.io/</link>
+            <guid isPermaLink="false">8bc5e55b-aeea-41d9-9a9b-3d92115f1fea</guid>
+            <pubDate>Sat, 12 Mar 2016 18:41:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
